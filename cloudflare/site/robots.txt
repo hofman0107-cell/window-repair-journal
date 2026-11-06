@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://window-repair-journal.pages.dev/sitemap.xml
