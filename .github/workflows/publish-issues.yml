@@ -1,4 +1,3 @@
-
 name: Publish Issues to GitHub Pages and Cloudflare Pages
 
 on:
